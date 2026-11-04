@@ -3,6 +3,8 @@
 ##Project Overview
 
 This repository contains the project files developed during my internship, focused on building an AI system to automatically classify cattle locomotion as lame or normal from video data to assist in livestock health monitoring.
+##Technologies used
+Python, YOLOv8, OpenCV, Pathlib
 
 ##Workflow and Execution
 The project was executed within Google Colab. The core scripts, such as train_ml.py, along with necessary configuration files and initialization scripts, are committed to this repository.
